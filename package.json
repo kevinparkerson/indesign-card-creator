@@ -1,7 +1,7 @@
 {
-  "name": "indesign-card-creator",
-  "humanReadableName": "InDesign Card Creator",
-  "description": "an indesign script for a project I'm working on",
+  "name": "photoshop-card-creator",
+  "humanReadableName": "Photoshop Card Creator",
+  "description": "a photoshop script for a project I'm working on",
   "version": "0.0.1",
   "contributors": [
     {
@@ -12,7 +12,7 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kevinparkerson/indesign-card-creator.git"
+    "url": "git@github.com:kevinparkerson/photoshop-card-creator.git"
   },
   "private": true,
   "engines": {
